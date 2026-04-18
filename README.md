@@ -17,9 +17,7 @@ Python · TypeScript · Kotlin · FastAPI · React Native · Expo · Gemini API 
 
 **Other projects**
 
-| | |
-|---|---|
-| [telescope_cam_detection](https://github.com/Yinchaochen/telescope_cam_detection) | Real-time wildlife detection with RT-DETR + iNaturalist on NVIDIA A30. Two-stage pipeline, GPU OOM graceful degradation, multi-camera RTSP. |
+
 | [reel-summarizer](https://github.com/Yinchaochen/reel-summarizer) | CLI tool + OpenClaw skill: summarize any Instagram Reel via Gemini full-video analysis, with auto re-login fallback. |
 | [Bubble](https://github.com/Yinchaochen/Bubble) | Multilingual AI news summarizer (EN / DE / ZH) using Groq + LLaMA 3.3. |
 
